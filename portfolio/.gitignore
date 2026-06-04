@@ -1,0 +1,4 @@
+.project-previews/
+.source-projects/
+node_modules/
+.DS_Store
