@@ -1,10 +1,5 @@
 {
   "name": "aastha-portfolio",
   "version": "1.0.0",
-  "private": true,
-  "description": "Professional portfolio for Aastha Chauhan",
-  "scripts": {
-    "build": "node -e \"console.log('Static portfolio ready for deployment')\"",
-    "start": "node server.js"
-  }
+  "private": true
 }
