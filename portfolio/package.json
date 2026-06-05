@@ -1,0 +1,10 @@
+{
+  "name": "aastha-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Professional portfolio for Aastha Chauhan",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js"
+  }
+}
